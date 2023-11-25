@@ -1,3 +1,3 @@
 #employee management system
 # Deployment link:-
-sumedha-softech-kleyij5ku-pankajkshahi.vercel.app
+https://sumedha-softech-3ev6rqcb7-pankajkshahi.vercel.app/
